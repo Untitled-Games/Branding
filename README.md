@@ -1,4 +1,4 @@
-![README_Banner](Dark/UG_Full.png)
+![README_Banner](Dark/UG_Full.svg)
 
 # Type
 Font Family: [bahnschrift](https://docs.microsoft.com/en-us/typography/font-list/bahnschrift)
