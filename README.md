@@ -1,4 +1,4 @@
-![README_Banner](Dark/UG_Full.svg)
+![README_Banner](Untitled_Games/Dark/UG_Full.svg)
 
 # Type
 Font Family: [bahnschrift](https://docs.microsoft.com/en-us/typography/font-list/bahnschrift)
@@ -9,7 +9,7 @@ Style: All Caps
 
 
 # Colors
-![Color_Pallette](Color_Pallette.png)
+![Color_Pallette](Untitled_Games/Color_Pallette.png)
 
 Primary: Black
 
